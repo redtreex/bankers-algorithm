@@ -2,6 +2,7 @@
 bankers algorithm to avoid deadlock in a system
 
 Input txt file description
+------------------------------
 4 // no. of processes
 5 // no. of resources
 
