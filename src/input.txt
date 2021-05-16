@@ -13,7 +13,4 @@
 
 0 0 2 1 2
 
-static int n, m;
-    static int safe[] = new int[n + 10];
-    static int resource_available[] , resource_allocation[][] , resource_need[][] , change_required[][];
 
